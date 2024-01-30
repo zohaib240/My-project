@@ -1,0 +1,34 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+#poem{
+    background-color: hsl(0, 0%, 50%);
+    text-align: center;
+    height: 40px;
+    padding-top: 25px;
+    margin-top: 10px;
+}
+li{
+    display: inline;
+    margin: 5px 40px 5px 40px;
+    padding-top: 25px;
+}
+a{
+    font-size: large;
+    color: black;
+
+}
+#poem2{
+    margin-top: 30px;
+    text-align: center;
+    font-size: 2rem;
+}
+span{
+    font-size: 4rem;
+    color: #ff0000;
+}
+p{
+    text-align: center;
+}
